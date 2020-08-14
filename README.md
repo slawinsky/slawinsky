@@ -11,7 +11,7 @@ I'm self-taught frontend dev.
 
 ## Socials.
 [<img align="left" alt="jakubslawinsky | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="jakubslawinsky | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][linkedin]
+[<img align="left" alt="jakubslawinsky | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
 
 <!--
 **slawinsky/slawinsky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
