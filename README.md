@@ -10,8 +10,8 @@ I'm self-taught frontend dev.
 - [GIT]
 
 ## Socials.
-[<img align="left" alt="jakubslawinsky | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/jakubslawinsky/)
-[<img align="left" alt="jakubslawinsky | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
+<img align="left" alt="jakubslawinsky | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />(https://www.linkedin.com/in/jakubslawinsky/)
+[<img align="left" alt="jakubslawinsky | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](mailto:jakubslawinsky@gmail.com)
 
 <!--
 **slawinsky/slawinsky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
