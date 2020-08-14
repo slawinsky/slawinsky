@@ -1,4 +1,17 @@
-### Hi there 👋
+### Hi there, I'm Jakub! 👋
+I'm self-taught frontend dev.
+
+## My skills.
+- [HTML]
+- [CSS]
+- [JavaScript]
+- [ReactJS]
+- [SASS]
+- [GIT]
+
+## Socials.
+[<img align="left" alt="jakubslawinsky | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="jakubslawinsky | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][linkedin]
 
 <!--
 **slawinsky/slawinsky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
